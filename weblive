@@ -1,0 +1,22 @@
+<head>
+<!-- Start of policyexperthelp Zendesk Widget script -->
+<script id="ze-snippet" src="https://static.zdassets.com/ekr/snippet.js?key=c6e00a65-099a-45b3-ad68-78753756f734"> </script>
+<!-- End of policyexperthelp Zendesk Widget script --></script>
+<script type="text/javascript">
+window.zESettings = {
+   "webWidget": {
+      "chat": {
+         "departments": {
+            "enabled": ["Customer Service","New Customers","Renewals"]
+                    }
+      }
+ }}
+</script>
+<!-- End of Zendesk Widget script -->
+</head>
+<!DOCTYPE html>
+<html>
+    <body>
+        <p>Testing</p>
+    </body>
+</html>
